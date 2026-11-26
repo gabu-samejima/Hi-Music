@@ -30,7 +30,7 @@ core_ktx = { module = "androidx.core:core-ktx", version = "1.16.0" }
 
 kotlin_coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.10.1" }
 kotlin_datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version = "0.6.2" }
-kotlin_immutable = { module = "org.jetbrains.kotlinx:kotlinx-collections-immutable", version = "0.3.8" }
+kotlin_immutable = { module = "org.jetbrains.kotlinx:kotlinx-collections-immutable", version = "0.5.2" }
 
 compose_bom = { module = "androidx.compose:compose-bom", version = "2025.04.01" }
 compose_animation = { module = "androidx.compose.animation:animation" }
